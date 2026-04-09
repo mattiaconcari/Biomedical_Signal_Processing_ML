@@ -13,7 +13,7 @@ This repository illustrates a dual-case study in biomedical signal processing an
 * **Objective:** Extracting and classifying respiratory patterns into three distinct physiological categories.
 * **Workflow:** Processing of optical signals from **Fiber Bragg Grating (FBG)** sensors to isolate respiratory cycles from motion artifacts. The extracted features were then fed into the **KNN** classifier in **MATLAB** to automatically categorize the breathing types.
 * 📁 **[View Code & Files](./Respiratory_FBG/)**
-* 📄 **[Read the full Respiratory FBG Report (PDF)](./Respiratory_FBG/Report_Respiratory_FBG.pdf)**
+* 📄 **[Read the full Respiratory FBG Report (PDF)](./Respiratory_FBG/Respiratory_FBG_Report.pdf)**
 
 ---
 
