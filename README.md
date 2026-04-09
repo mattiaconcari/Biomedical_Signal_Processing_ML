@@ -6,8 +6,8 @@ This repository illustrates a dual-case study in biomedical signal processing an
 ### Case Study 1: Human Activity Recognition (HAR) via Wearables
 * **Objective:** Classifying human motion states (Walking, Running, Standing) based on inertial data.
 * **Workflow:** Data acquisition via smartphone IMU sensors (accelerometers/gyroscopes), real-time filtering in **LabVIEW**, and multi-class classification using a **K-Nearest Neighbors (KNN)** algorithm in **MATLAB**.
-* 📁 **[View Code & Files](./Activity_Recognition/)**
-* 📄 **[Read the full Activity Recognition Report (PDF)](./Activity_Recognition/Report_Activity_Recognition.pdf)**
+* 📁 **[View Code & Files](./Human_Activity_Recognition/)**
+* 📄 **[Read the full Activity Recognition Report (PDF)](./Human_Activity_Recognition/Activity_Recognition_Report.pdf)**
 
 ### Case Study 2: Respiratory Monitoring via FBG
 * **Objective:** Extracting and classifying respiratory patterns into three distinct physiological categories.
